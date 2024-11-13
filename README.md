@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/ajitksingh?style=flat-square)
 
 ## 🚀 About Me
-I'm a **web developer** and **Computer Science and Engineering student** in my 7th semester at Odisha. My passion lies in building intuitive and responsive web applications, focusing on both **frontend** and **backend** development.
+I'm a **web developer** and **Computer Science and Engineering student** in my 7th semester. My passion lies in building intuitive and responsive web applications, focusing on both **frontend** and **backend** development.
 
 ---
 
@@ -28,14 +28,7 @@ I'm a **web developer** and **Computer Science and Engineering student** in my 7
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajitksingh&show_icons=true&theme=radical" alt="Ajit Kumar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitksingh&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 
 ### 🌱 Currently Working On
 
@@ -45,16 +38,10 @@ I'm a **web developer** and **Computer Science and Engineering student** in my 7
 
 ---
 
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
 
 ### ⚡ Fun Fact
 
-I love collecting coding swag like stickers and motivational quotes to personalize my workspace: *"Eat, Sleep, Code, Repeat"*!
+My code works 99% of the time... the other 1% is when someone else is watching! 😅
 
 ---
 
