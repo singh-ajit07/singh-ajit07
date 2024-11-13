@@ -1,8 +1,5 @@
 # Hi there, I'm Ajit Kumar Singh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajitksingh&color=blue&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/ajitksingh?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/ajitksingh?style=flat-square)
 
 ## 🚀 About Me
 I'm a **web developer** and **Computer Science and Engineering student** in my 7th semester. My passion lies in building intuitive and responsive web applications, focusing on both **frontend** and **backend** development.
