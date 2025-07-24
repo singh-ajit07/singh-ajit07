@@ -1,38 +1,54 @@
-# Hi there, I'm Ajit Kumar Singh 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Ajit%20Kumar%20Singh&fontSize=40&fontColor=ffffff" />
+</p>
 
+<!-- Introduction -->
+<h2 align="center">👋 Hey there! I'm <span style="color:#1976D2;">Ajit Kumar Singh</span> </h2>
+
+<p align="center">
+  🎓 B.Tech CSE Student | 💻 Web Developer | ☕ Java Programmer <br>
+  📍 Odisha, India
+</p>
+
+---
 
 ## 🚀 About Me
-I'm a **web developer** and **Computer Science and Engineering student** in my 7th semester. My passion lies in building intuitive and responsive web applications, focusing on both **frontend** and **backend** development.
+
+- 👨‍🎓 Currently pursuing B.Tech in **Computer Science & Engineering**
+- 💡 I love building interactive, responsive websites and exploring core programming concepts
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `SQL`, `Java`
+- 🛠 Tools I use: `VS Code`, `XAMPP`, `Git`, `GitHub`, `NetBeans`, `Postman`
+- 🔍 Currently improving my **Java** and **problem-solving** skills
 
 ---
 
-### 🛠️ Tech Stack
+## 📌 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 💼 Projects
-
-- **Portfolio Website** - A responsive portfolio to showcase my skills and projects.
-- **E-commerce Clone** - An e-commerce website clone built with HTML, CSS, and JavaScript.
-- **Tic-Tac-Toe Game** - A simple game made with JavaScript to demonstrate DOM manipulation.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
+## 🌟 Projects Showcase
 
+| 🔧 Project | 💬 Description |
+|-----------|----------------|
+| 🎨 **Portfolio Website** | A fully responsive personal portfolio showcasing my skills and projects |
+| 🛒 **Amazon Homepage Clone** | A front-end clone of Amazon's homepage using HTML & CSS <br> |
 
-### 🌱 Currently Working On
-
-- Enhancing my music player website with UI improvements and increased file upload limits.
-- Exploring advanced CSS techniques for responsive design.
-- 
+> 📌 Explore more in my repositories!
 
 ---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer"/>
+</p>
 
 
 ### ⚡ Fun Fact
