@@ -17,7 +17,7 @@
 - 👨‍🎓 Currently pursuing B.Tech in **Computer Science & Engineering**
 - 💡 I love building interactive, responsive websites and exploring core programming concepts
 - 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `SQL`, `Java`
-- 🛠 Tools I use: `VS Code`, `XAMPP`, `Git`, `GitHub`, `NetBeans`, `Postman`
+- 🛠 Tools I use: `VS Code`, `XAMPP`, `Git`, `GitHub`, `MySQL`
 - 🔍 Currently improving my **Java** and **problem-solving** skills
 
 ---
