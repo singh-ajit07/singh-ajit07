@@ -8,7 +8,6 @@
 
 <p align="center">
   🎓 B.Tech CSE Student | 💻 Web Developer | ☕ Java Programmer <br>
-  📍 Odisha, India
 </p>
 
 ---
