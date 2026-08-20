@@ -14,11 +14,13 @@
 
 ## 🚀 About Me
 
-- 👨‍🎓 Currently pursuing B.Tech in **Computer Science & Engineering**
+- 👨‍🎓 B.Tech Computer Science & Engineering Graduate
 - 💡 I love building interactive, responsive websites and exploring core programming concepts
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `PHP`, `SQL`, `Java`
-- 🛠 Tools I use: `VS Code`, `XAMPP`, `Git`, `GitHub`, `MySQL`
-- 🔍 Currently improving my **Java** and **problem-solving** skills
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Oracle SQL`, `Java`, `SpringBoot`, `Restful APIs`, `JSON`
+- 🛠 Tools I use: `VS Code`, `Eclipse`, `XAMPP`, `Git`, `GitHub`, `MySQL`
+- 🧠 Currently strengthening my Core Java, OOPS, Advance Java and problem-solving skills
+- 🗄️ Interested in databases, backend development, and software architecture
+- 🤖 Exploring AI-assisted and agentic development tools to improve my development workflow
 
 ---
 
@@ -27,7 +29,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
